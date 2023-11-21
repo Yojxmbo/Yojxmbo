@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello, and thanks for visiting my Github. I'm a noob developeer currently studying Software Engineering @ Western Govenors University while also partaking in The Odin Project. 
+Right now I'm learning HTML, CSS, and Javascript basics. You can view some of my practices here. 
+Twitter/Instagram/CodeWars: @ yojxmbo
+Discord: @ yojimbo.exe
 
 <!--
 **Yojxmbo/Yojxmbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
