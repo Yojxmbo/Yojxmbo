@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emmanuel, a <a href="https://linkedin.com/in/eokoroii">Software Developer</a>☺</h1>
 <p>Currently studying Software Engineering @ Western Govenors University while also partaking in The Odin Project. 
-Right now I'm learning HTML, CSS, and Javascript basics. You can view some of my practices here. </p>
+Right now I'm learning HTML, CSS, and Javascript basics. You can view some of my projects here. </p>
 
 <h2> Projects & Practices </h2>
     -
