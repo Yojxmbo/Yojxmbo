@@ -1,19 +1,27 @@
-Hello, and thanks for visiting my Github. I'm a noob developeer currently studying Software Engineering @ Western Govenors University while also partaking in The Odin Project. 
-Right now I'm learning HTML, CSS, and Javascript basics. You can view some of my practices here. 
-Twitter/Instagram/CodeWars: @ yojxmbo
-Discord: @ yojimbo.exe
+<h1>Hi, I'm Emmanuel, a <a href="https://linkedin.com/in/eokoroii">Software Developer</a>☺</h1>
+<p>Currently studying Software Engineering @ Western Govenors University while also partaking in The Odin Project. 
+Right now I'm learning HTML, CSS, and Javascript basics. You can view some of my practices here. </p>
 
-<!--
-**Yojxmbo/Yojxmbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Projects & Practices </h2>
+    -
+- <b> The Odin Project </b>
+    -
+- <b> WGU Projects </b>
+    - 
+- <b> General Practice </b>
+    - 
+    -
 
-Here are some ideas to get you started:
+<h2>🤳Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Emmanuel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Emmanuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Emmanuel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/yojxmbo
+[instagram]: https://www.instagram.com/yojxmbo
+[linkedin]: https://linkedin.com/in/eokoroii
+<br>
+<br>
+[codewars]: https://www.codewars.com/users/Yojxmbo
+[discord]: @ yojimbo.exe
