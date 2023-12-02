@@ -2,15 +2,20 @@
 <p>Currently studying Software Engineering @ Western Govenors University while also partaking in The Odin Project. 
 Right now I'm learning HTML, CSS, and Javascript basics. You can view some of my projects here. </p>
 
-<h2> Projects & Practices </h2>
+<h2>👨‍💻 Web Development Projects: </h2>
     -
-- <b> The Odin Project </b>
-    -
-- <b> WGU Projects </b>
-    - 
-- <b> General Practice </b>
-    - 
-    -
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/eokoroii/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/eokoroii/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/eokoroii/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eokoroii/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eokoroii/azure-network-protocols)
+
+
+
 
 <h2>🤳Connect with me:</h2>
 
