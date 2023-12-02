@@ -7,7 +7,7 @@ Right now I'm learning HTML, CSS, and Javascript basics. You can view some of my
 - <b>The Odin Project</b>
   - [The Odin Project: Recipes](https://yojxmbo.github.io/odin-recipes/)
   - [The Odin Project: Landing Page](https://yojxmbo.github.io/odin-landing-page)
-- <b>Western Govenors University</b>
+- <b>Western Governors University</b>
   - [Front End Web Development: Task 1](https://yojxmbo.github.io/WGU-D277-FrontEndWebDevelopment-Task1/)
   -
   
